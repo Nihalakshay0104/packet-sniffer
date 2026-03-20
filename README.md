@@ -20,7 +20,10 @@ python advanced_sniffer.py
 
 ---
 
-# ⚙️ Upload Using Git (Terminal Way)
+
+---
+
+#  Upload Using Git (Terminal Way)
 
 Open terminal in your project folder:
 
@@ -29,5 +32,5 @@ git init
 git add .
 git commit -m "Initial commit - packet sniffer project"
 git branch -M main
-git remote add origin https://github.com/Nihalakshay0104/packet-sniffer.git
+git remote add origin https://github.com/YOUR_USERNAME/packet-sniffer.git
 git push -u origin main
