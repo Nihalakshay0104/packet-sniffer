@@ -15,7 +15,7 @@
 ## How to Run
 ```bash
 pip install scapy
-python advanced_sniffer.py
+python enhanced_stable_sniffer.py
 
 
 ---
